@@ -1,4 +1,10 @@
+<<<<<<< .merge_file_a05696
 aaaaaaaaaaaaaa
 bbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddddd
+=======
+aaaaaaa
+bbbbbbbbbbbbbb
+aaaaaaaa
+>>>>>>> .merge_file_a01160
